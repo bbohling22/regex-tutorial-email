@@ -1,11 +1,13 @@
-# Title (replace with your title)
+# Regex Tutorial: Matching an Email
 
-Introductory paragraph (replace this with your text)
+This regex turorial will be a guide on how regex works to match emails
 
 ## Summary
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Emails!
 
+While Regex may seem extreamily complicated, once you read into it for a few minutes its actually not to hard to understand and then to once you do understand you can begin to use them to your benefite to help you along your javascript coding journey!
 ## Table of Contents
 
 - [Anchors](#anchors)
